@@ -36,8 +36,6 @@
 
 ## 📈 GitHub Stats
 
-![Prajwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrajwalAL22&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrajwalAL22&layout=compact&theme=radical)
 
 ---
