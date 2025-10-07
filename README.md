@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Prajwal Labhane
 
-🎯 Backend Engineer @ **AlignMCareer**  
+🎯 Backend Engineer @ **AlignMyCareer**  
 💻 Focused on building scalable, secure, and high-performance backend systems  
 🌱 Currently diving into Python, AI/ML, Deep Learning & DevOps
 
