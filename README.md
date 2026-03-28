@@ -12,7 +12,7 @@
 - 💡 **Adept in:** Java, Spring Boot, MongoDB, React, JavaScript  
 - 🚀 **Currently Learning:** Python, AI/ML, Deep Learning, DevOps  
 - 📫 **Email:** [prajwallabhaneofficial@gmail.com](mailto:prajwallabhaneofficial@gmail.com)  
-- 🔗 **LinkedIn:** [prajwal-labhane](https://www.linkedin.com/in/prajwal-labhane-689ba6242)
+- 🔗 **LinkedIn:** [prajwal-labhane](https://www.linkedin.com/in/prajwal-labhane-689ba6242/)
 
 ---
 
@@ -29,7 +29,7 @@
 
 **Learning**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AI/ML](https://img.shields.io/badge/AI%2FML-ff6f00?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System%20Design-6DB33F?style=for-the-badge)
 ![DevOps](https://img.shields.io/badge/DevOps-007ACC?style=for-the-badge)
 
 ---
