@@ -37,10 +37,7 @@
 ## 📈 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=PrajwalAL22&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrajwalAL22&layout=compact&theme=radical)
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrajwalAL22&theme=react-dark)
 
 ---
 
