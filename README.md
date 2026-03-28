@@ -10,7 +10,7 @@
 
 - 🔧 **Backend Tech Stack:** Java, Spring Boot, MongoDB 
 - 💡 **Adept in:** Java, Spring Boot, MongoDB, React, JavaScript  
-- 🚀 **Currently Learning:** Python, AI/ML, Deep Learning, DevOps  
+- 🚀 **Currently Learning:** Python, System Design, DevOps  
 - 📫 **Email:** [prajwallabhaneofficial@gmail.com](mailto:prajwallabhaneofficial@gmail.com)  
 - 🔗 **LinkedIn:** [prajwal-labhane](https://www.linkedin.com/in/prajwal-labhane-689ba6242/)
 
