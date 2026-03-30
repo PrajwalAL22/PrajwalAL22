@@ -2,7 +2,7 @@
 
 🎯 Backend Engineer @ **AlignMyCareer**  
 💻 Focused on building scalable, secure, and high-performance backend systems  
-🌱 Currently diving into Python, AI/ML, Deep Learning & DevOps
+🌱 Currently diving into Python, AI/ML, System Design & DevOps
 
 ---
 
